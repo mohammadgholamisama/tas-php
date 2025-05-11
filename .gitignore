@@ -1,0 +1,12 @@
+/AppCore/Logs/*
+!/AppCore/Logs/.gitkeep
+/vendor/
+composer.lock
+# فایل‌های محلی VS Code
+.vscode/
+# فایل‌های سیستم عامل
+.DS_Store
+*.swp
+*~
+# فایل‌های حساس یا تولید شده محلی
+# .env # اگر از فایل env استفاده می‌کنید
